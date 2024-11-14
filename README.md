@@ -21,6 +21,7 @@ How to Use
 Deploy the Contract:
 Deploy the contract to a suitable blockchain network (e.g., Ethereum, Polygon).
 Specify the payee address as a parameter during deployment.
+example for payee address is 0x1234567890abcdef1234567890abcdef12345678
 
 Fund the Escrow:
 The payer sends the agreed-upon amount of Ether to the contract's address.
